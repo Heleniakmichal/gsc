@@ -1,0 +1,8 @@
+node_modules
+dist
+.port
+.DS_Store
+.venv
+.idea
+reports
+.env
